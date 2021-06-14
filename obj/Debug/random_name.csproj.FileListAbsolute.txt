@@ -1,0 +1,9 @@
+C:\Users\hexia\source\repos\random_name\bin\Debug\random_name.exe
+C:\Users\hexia\source\repos\random_name\bin\Debug\random_name.pdb
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.AssemblyReference.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.Form1.resources
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.Properties.Resources.resources
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.GenerateResource.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.exe
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.pdb
