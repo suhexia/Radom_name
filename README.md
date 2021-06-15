@@ -3,6 +3,11 @@
 挺有意思的，这可能是我第一次做出一个完整的软件，开源出来纪念纪念  
 This programa made because of my chinese teacher(and i want to make this programa too), so here.  
 I think it is too interesting, it may be my first to do a application.  
+![image Text]
+(https://github.com/suhexia/Radom_name/blob/main/Image_file/main_app.png)
+
+！文字完全自定义，除了Form以外的文字均可独立修改  
+！UI风格参考了某个由JavaScript开发的项目  
 
 1.名字目录：根目录/data/name.txt  
 篇目目录：根目录/data/poem.txt  
