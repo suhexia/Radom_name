@@ -4,11 +4,19 @@
 This programa made because of my chinese teacher(and i want to make this programa too), so here.  
 I think it is too interesting, it may be my first to do a application.  
 
+<<<<<<< HEAD
 ![这是一张程序主图片](https://github.com/suhexia/Radom_name/blob/main/Image_file/main_app.png)  
 
 + 完全自定义，除了Form以外的文字均可自由修改  
 + UI风格借鉴了某个JavaScript开发的点名器  
 + 简单通俗易懂的文档  
+=======
+![这是一张主图片](https://github.com/suhexia/Radom_name/blob/main/Image_file/main_app.png)  
+
+>+ 完全自定义，除了Form以外的文字均可自由修改  
+>+ UI风格借鉴了某个JavaScript开发的点名器  
+>+ 简单通俗易懂的文档  
+>>>>>>> b69bc5feb5d27ffa498eae9c31495181711b1fe1
   
 >1.名字目录：根目录/data/name.txt  
 >篇目目录：根目录/data/poem.txt  
