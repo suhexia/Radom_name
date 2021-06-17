@@ -26,7 +26,7 @@ I think it is too interesting, it may be my first to do a application.
 
 ********
 # 相关UI的描述文字修改说明：  
->（文件在根目录/ui_setting.txt）  
+**（文件在根目录/ui_setting.txt）**  
 >+ 第一行————label1初始显示文字（左名字显示框）  
 >+ 第二行————label2初始显示文字（右诗词显示框）  
 >+ 第三行————button1显示文字（左触发按钮初始文字）  
