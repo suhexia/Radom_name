@@ -1,4 +1,4 @@
-# Radom_name
+# 随机点名器
 此项目制作是出于语文老师的要求（并且我本来也想做），所以做出来了这么个东西。  
 挺有意思的，这可能是我第一次做出一个完整的软件，开源出来纪念纪念  
 This programa made because of my chinese teacher(and i want to make this programa too), so here.  
@@ -18,7 +18,7 @@ I think it is too interesting, it may be my first to do a application.
 请勿修改窗口大小！否则可能会出现排版错误等问题！  
 
 """""""""""""""""""""""""""""""""""""  
-相关UI的描述文字修改说明：  
+#相关UI的描述文字修改说明：  
 （文件在根目录/ui_setting.txt）  
 第一行————label1初始显示文字（左名字显示框）  
 第二行————label2初始显示文字（右诗词显示框）  
