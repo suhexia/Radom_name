@@ -7,3 +7,13 @@ C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.GenerateRes
 C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.CoreCompileInputs.cache
 C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.exe
 C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.AssemblyReference.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Form1.resources
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Properties.Resources.resources
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.GenerateResource.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.exe
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\bin\Debug\random_name.exe
+E:\visual stuio\repo\Radom_name\bin\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Form2.resources

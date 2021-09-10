@@ -1,0 +1,9 @@
+E:\visual stuio\repo\Radom_name\bin\Release\random_name.exe
+E:\visual stuio\repo\Radom_name\bin\Release\random_name.pdb
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.Form1.resources
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.Form2.resources
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.Properties.Resources.resources
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.csproj.GenerateResource.cache
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.csproj.CoreCompileInputs.cache
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.exe
+E:\visual stuio\repo\Radom_name\obj\Release\random_name.pdb
