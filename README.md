@@ -14,10 +14,6 @@ I think it is too interesting, it may be my first to do a application.
 2.此程序需要环境包.NET 3.1.0或以上的版本  
 如缺少此环境请访问：https://dotnet.microsoft.com/download/dotnet/3.1/  下载此环境包。  
 （一般来说，只需要在SDK的下载表格中找到os为Windows，installers为x64的安装包下载）  
-  
-3.左边的矩形为抽取的名字，右边为抽取的篇目（按钮同理），  
-请勿修改窗口大小！否则可能会出现排版错误等问题！  
-
 
 # 相关UI的描述文字修改说明：  
 > （文件在根目录/ui_setting.txt）  
