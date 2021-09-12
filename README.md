@@ -15,6 +15,9 @@ I think it is too interesting, it may be my first to do a application.
 如缺少此环境请访问：https://dotnet.microsoft.com/download/dotnet/3.1/  下载此环境包。  
 （一般来说，只需要在SDK的下载表格中找到os为Windows，installers为x64的安装包下载）  
 
+3.卸载程序出于限制只能在开始菜单里面，无解决方法（可能吧）
+
+
 # 相关UI的描述文字修改说明：  
 > （文件在根目录/ui_setting.txt）  
 > 第一行————label1初始显示文字（左名字显示框）  
